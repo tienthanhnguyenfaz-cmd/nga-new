@@ -1,4 +1,4 @@
-﻿namespace Database_ASM_music_store
+namespace Database_ASM_music_store
 {
     partial class Login
     {
@@ -87,6 +87,7 @@
             btnLogin.TabIndex = 5;
             btnLogin.Text = "Login";
             btnLogin.UseVisualStyleBackColor = true;
+            btnLogin.Click += btnLogin_Click;
             // 
             // Login
             // 

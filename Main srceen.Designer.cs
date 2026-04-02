@@ -1,6 +1,6 @@
-﻿namespace Database_ASM_music_store
+namespace Database_ASM_music_store
 {
-    partial class Form1
+    partial class Main_srceen
     {
         /// <summary>
         /// Required designer variable.
@@ -125,7 +125,7 @@
             Controls.Add(btnImport);
             Controls.Add(btnOrder);
             Controls.Add(label1);
-            Name = "Form1";
+            Name = "Main_srceen";
             Text = "Main srceen";
             ResumeLayout(false);
             PerformLayout();
